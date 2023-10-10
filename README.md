@@ -3,6 +3,9 @@
 I'm a student at the University of Tokyo, Department of Economics, Faculty of Economics.  
 
 ## Projects
+## Knowtfolio
+### Blog service with NFT to manage editing rights
+[![Monorepo](https://github-readme-stats.vercel.app/api/pin/?username=team-azb&repo=knowtfolio&show_icons=true&theme=graywhite)](https://github.com/team-azb/knowtfolio)
 ## code-database
 ### Blog for learning programming ([site link](https://code-database.com))  
 [![Monorepo](https://github-readme-stats.vercel.app/api/pin/?username=geek-line&repo=code-database&show_icons=true&theme=graywhite)](https://github.com/geek-line/code-database)
