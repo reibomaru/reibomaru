@@ -1,6 +1,6 @@
 ## profile
 ### Hi there 👋
-I'm a student at the University of Tokyo, Department of Economics, Faculty of Economics.  
+I am a software engineer, having been studying economics and programming at the University of Tokyo and currently studying product development.
 
 ## Projects
 ## Knowtfolio
