@@ -19,6 +19,9 @@ I am a software engineer, having been studying economics and programming at the 
 ## rachel-nft
 ### Application to issue and trade NFTs in accordance with ERC-721
 [![Monorepo](https://github-readme-stats.vercel.app/api/pin/?username=reibomaru&repo=rachel-nft&show_icons=true&theme=graywhite)](https://github.com/reibomaru/rachel-nft)
+## dSNS
+### SNS with blockchain. post is recorded on blockchain
+[![Monorepo](https://github-readme-stats.vercel.app/api/pin/?username=reibomaru&repo=dsns&show_icons=true&theme=graywhite)](https://github.com/reibomaru/dsns)
 <!--
 **reibomaru/reibomaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
